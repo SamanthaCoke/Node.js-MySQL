@@ -5,3 +5,5 @@
 
 
 ![product_menu](product_menu.png)
+
+![customer](customer.png)
